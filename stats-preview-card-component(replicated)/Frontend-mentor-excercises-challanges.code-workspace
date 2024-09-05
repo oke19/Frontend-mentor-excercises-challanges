@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Frontend-mentor-excercises-challanges",
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/stats-preview-card-component-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Frontend-mentor-excercises-challanges"
+	}
+}
